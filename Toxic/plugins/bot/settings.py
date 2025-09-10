@@ -792,12 +792,12 @@ async def vote_change(client, CallbackQuery, _):
 @languageCB
 async def support(client, CallbackQuery, _):
     await CallbackQuery.edit_message_text(
-            text="𝖣𝖾𝗏", 
+            text="choudhary", 
             reply_markup=InlineKeyboardMarkup(
                 [ 
                    [
                        InlineKeyboardButton(
-                           text="choudhary", url="https://t.me/Kittu_the_meoww",
+                           text="choudhary", url="https://t.me/choudhary12000",
                         ),  
                    ],
                    [
@@ -832,6 +832,7 @@ async def support(client, CallbackQuery, _):
                 ]
             ),
     )
+
 
 
 
