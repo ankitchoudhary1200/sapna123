@@ -797,12 +797,12 @@ async def support(client, CallbackQuery, _):
                 [ 
                    [
                        InlineKeyboardButton(
-                           text="𝖣𝖾𝗏", url="https://t.me/Kittu_the_meoww",
+                           text="choudhary", url="https://t.me/Kittu_the_meoww",
                         ),  
                    ],
                    [
                        InlineKeyboardButton(
-                          text="𝖡𝖺𝖼𝗄", callback_data=f"settingsback_helper",
+                          text="𝖡𝖺𝖼𝗄", callback_data=f"https://t.me/choudhary12000",
                        ),
                     ],
                   ],
@@ -820,10 +820,10 @@ async def support(client, CallbackQuery, _):
                 [
                     [
                         InlineKeyboardButton(
-                            text="𝖦𝖼", url="https://t.me/chuckymusic_support",
+                            text="𝖦𝖼", url="https://t.me/+KTwpwGVv4bBhNzFl",
                         ),
                         InlineKeyboardButton(
-                            text="𝖴𝗉𝖽𝖺𝗍𝖾𝖲", url="https://t.me/teakadai_update",
+                            text="𝖴𝗉𝖽𝖺𝗍𝖾𝖲", url="https://t.me/masoomupdate",
                         ),
                     ],
                     [
@@ -832,6 +832,7 @@ async def support(client, CallbackQuery, _):
                 ]
             ),
     )
+
 
 
 
