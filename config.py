@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/teakadai_update")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/chuckymusic_support")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/masoomupdate")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+KTwpwGVv4bBhNzFl")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -61,10 +61,10 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 # Checkout https://www.gbmb.org/mb-to-bytes for converting mb to bytes
 
 # API URL - here
-API_URL = getenv("API_URL", "https://tgmusic.fallenapi.fun")
+API_URL = getenv("API_URL", "https://t.me/+AtZjlD9t75llZWVl")
 
 # API KEY - here
-API_KEY = getenv("API_KEY", "3be030_1hqsi-OZKqE7OMO3NajvplTbJ6I7lusb")
+API_KEY = getenv("API_KEY", "xbit_LMI6MPDNIBV54A70XQUUKQ")
 
 # For - downloads
 DOWNLOADS_DIR = "downloads"
